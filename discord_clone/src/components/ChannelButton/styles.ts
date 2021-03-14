@@ -56,6 +56,8 @@ export const InviteIcon = styled(PersonAdd)`
         color: var(--white);
     }
 
+    
+
 `;
 
 export const SettingsICon = styled(Settings)`
